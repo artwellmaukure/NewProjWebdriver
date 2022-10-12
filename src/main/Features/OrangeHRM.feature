@@ -14,3 +14,4 @@ Feature:OrangeHRM Login
     |manager    |demouserpwd|
     |user1      |demouserpwd|
     |user2      |demouserpwd|
+    |arts       |anesu1234  |
